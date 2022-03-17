@@ -178,7 +178,7 @@ Firmware de la carte : ~
 Serveur backend : 
  - ~ 150 sloc de **configuration** (docker-compose, configurations de influx/nginx/graphana)
  - ~ 700 sloc de **python** (gestion des données et de l'api utilisateur)
- - ~ 500 gggsloc d'**html**/**css**/**javascript** pour interface de configuration utilisateur
+ - ~ 500 sloc d'**html**/**css**/**javascript** pour interface de configuration utilisateur
 
 ## Conclusion (Retour d'expérience)
 
