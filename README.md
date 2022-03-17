@@ -216,15 +216,27 @@ https://github.com/riot-os/riot-course
 ## Glossaire
 
 *Backend* : Serveur faisant généralement le traitement et le stockage des données 
+
 *BME280* : Capteur de pression, humidité et température.
+
 *CSS* : "Cascading Style Sheets" Langage informatique qui décrit la présentation des documents HTML et XML.
+
 *Docker* : Plateforme permettant de lancer certaines applications dans des conteneurs logiciels.
+
 *HTML* : "HyperText Markup Language" Langage de balisage conçu pour représenter les pages web.
+
 *HTTP* : "Hypertext Transfer Protocol" Protocole de communication client-serveur développé pour le World Wide Web.
+
 *I2C* : Bus informatique permettant la communication entre des microcontrolleurs.
+
 *Javascript* : Langage de programmation de scripts principalement employé dans les pages web interactives
+
 *LoRa-E5* : Microcontroleur utilisé pour piloter les capteurs et le modem LoRa.
+
 *LoRa* : Technologie sans fil permettant des communications longue distance et a faible consommation.
+
 *MQTT* : "Message Queuing Telemetry Transport" Protocole de messagerie publish-subscribe basé sur le protocole TCP/IP
+
 *PMS7003* : Capteur de particules fines.
+
 *Uart* : "Universal Asynchronous Receiver Transmitter" Un émetteur-récepteur asynchrone universel utilisé pour de la communication entre composants electroniques ou avec un ordinateur.
